@@ -1,6 +1,7 @@
 ## 📌 Typy danych w Pythonie
 
 ### 🔹 Podstawowe typy danych
+```bash
 ```python
 # Liczby całkowite (int)
 liczba_calkowita = 42
@@ -14,8 +15,10 @@ tekst = "Witaj w Pythonie!"
 # Wartości logiczne (bool)
 prawda = True
 falsz = False
+```
 
 ### 🔹 Typy sekwencyjne
+```bash
 ```python
 # Listy - dynamiczne tablice
 lista = [1, 2, 3, 4, "tekst"]
@@ -28,9 +31,11 @@ slownik = {"imie": "Jan", "wiek": 25}
 
 # Zbiory - unikalne wartości
 zbior = {1, 2, 3, 3, 4}  # Wynik: {1, 2, 3, 4}
+```
 
 
 ### 🔹 Konwersja typów
+```bash
 ```python
 # Zamiana liczby na string
 liczba = 123
@@ -39,20 +44,25 @@ tekst = str(liczba)
 # Zamiana stringa na liczbę
 liczba_int = int("42")
 liczba_float = float("3.14")
+```
 
 
 ### 🔹 Operacje na ciągach znaków
+```bash
 ```python
 tekst = "Python jest super!"
 print(tekst.upper())  # WIELKIE LITERY
 print(tekst.lower())  # małe litery
 print(tekst.replace("super", "świetny"))  # Zamiana słów
 print(len(tekst))  # Długość tekstu
+```
 
 
 ### 🔹 Sprawdzanie typu zmiennej
+```bash
 ```python
 print(type(liczba_calkowita))  # <class 'int'>
 print(type(tekst))  # <class 'str'>
 print(type(lista))  # <class 'list'>
+```
 
