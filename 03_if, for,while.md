@@ -3,7 +3,7 @@
 ## 🔹 Instrukcje warunkowe
 ```bash
 ```python
-# Instrukcja if-elif-else
+# Instrukcja if-elif-else 
 x = 10
 if x > 0:
     print("Liczba dodatnia")
