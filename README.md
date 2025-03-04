@@ -1,2 +1,2 @@
-# python-powt-rki
+# python-powtorki
 przypomnienie struktur funkcji i bibliotek z pythona
