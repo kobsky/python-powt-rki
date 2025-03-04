@@ -1,5 +1,6 @@
 
-# Uruchamianie Pythona
+## Uruchamianie Pythona
+```bash
 python        Uruchomienie interaktywnej konsoli Pythona
 python script.py   Uruchomienie skryptu Python zapisanego w pliku
 exit()        Wyjście z konsoli Pythona
