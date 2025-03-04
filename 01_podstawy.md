@@ -1,11 +1,11 @@
 
-Uruchamianie Pythona
-python       # Uruchomienie interaktywnej konsoli Pythona
-python script.py  # Uruchomienie skryptu Python zapisanego w pliku
-exit()       # Wyjście z konsoli Pythona
+# Uruchamianie Pythona
+python        Uruchomienie interaktywnej konsoli Pythona
+python script.py   Uruchomienie skryptu Python zapisanego w pliku
+exit()        Wyjście z konsoli Pythona
 
-Sprawdzanie wersji Pythona
-python --version  # Sprawdzenie wersji Pythona
+## Sprawdzanie wersji Pythona
+python --version   Sprawdzenie wersji Pythona
 python -V
 
  Instalacja i zarządzanie pakietami
